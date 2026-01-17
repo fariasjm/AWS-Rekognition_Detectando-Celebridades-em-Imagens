@@ -1,0 +1,1 @@
+# AWS-Rekognition_-Detectando-Celebridades-em-Imagens
