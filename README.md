@@ -1,1 +1,4 @@
-# AWS-Rekognition_-Detectando-Celebridades-em-Imagens
+# AWS Rekognition_ Detectando Celebridades em Imagens
+
+
+
